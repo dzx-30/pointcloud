@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dzx/下载/test1/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dkiss_fft_scalar=double -Dqh_QHpointer -I../. -isystem /usr/local/include/pcl-1.13 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/local/include/vtk-9.2 -isystem /usr/local/include/vtk-9.2/vtknlohmannjson/include -isystem /usr/local/include/vtk-9.2/vtkfreetype/include  -g   -msse4.2 -mfpmath=sse -march=native -mavx2 -o CMakeFiles/v2.dir/src/seePLY.cpp.o -c /home/dzx/下载/test1/src/seePLY.cpp",
+  "file": "/home/dzx/下载/test1/src/seePLY.cpp"
+}
+]

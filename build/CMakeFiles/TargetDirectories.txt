@@ -1,0 +1,3 @@
+/home/dzx/下载/test1/build/CMakeFiles/rebuild_cache.dir
+/home/dzx/下载/test1/build/CMakeFiles/edit_cache.dir
+/home/dzx/下载/test1/build/CMakeFiles/v2.dir
